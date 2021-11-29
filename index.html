@@ -1,0 +1,10 @@
+<SCRIPT language="javascript">
+<!--
+function j(){
+var u=new Array("https://forms.gle/ydGcHr1cpWD4ifbc7","https://forms.gle/GfncMre7tGSdsA9q8");
+location.href=(u[Math.floor(Math.random()*u.length)]);
+}
+//-->
+</SCRIPT>
+
+<A HREF="JavaScript:j();">はじめにこちらのURLをクリックしてください</A>
